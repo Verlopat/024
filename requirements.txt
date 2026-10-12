@@ -1,0 +1,7 @@
+# Zero required pip dependencies; Python standard library supports full smoke workflow.
+# Optional research-grade plotting and statistical analyses:
+# matplotlib>=3.9
+# numpy>=2.1
+# scipy>=1.14
+# pandas>=2.2
+# pyarrow>=17

@@ -1,0 +1,12 @@
+{
+  "profile": "full",
+  "elements": 100000,
+  "threads": [1,2,4,6,8],
+  "operations_per_thread": 100000,
+  "repetitions": 30,
+  "seeds": [42,73,91],
+  "pause_us": [0,10,100,1000],
+  "pause_rate": [0.0,0.01,0.05,0.1],
+  "methods": ["B1","B2","B3","B4","P1","A1","A2","A3"],
+  "workloads": ["W1","W2","W3","W4","W5","W6","W7","W8"]
+}

@@ -1,0 +1,12 @@
+{
+  "profile": "smoke",
+  "elements": 40,
+  "threads": [1, 2],
+  "operations_per_thread": 300,
+  "repetitions": 3,
+  "seeds": [42, 73, 91],
+  "pause_us": [0, 100],
+  "pause_rate": [0.0, 0.05],
+  "methods": ["B1", "B2", "B3", "B4", "P1", "A1", "A2", "A3"],
+  "workloads": ["W1", "W2", "W3", "W4", "W5", "W6", "W7", "W8"]
+}
